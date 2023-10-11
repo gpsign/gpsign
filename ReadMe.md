@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A developer from Brazil who likes new challenges</h3>
 
-- 🌱 I’m currently learning **Prisma**
-
 - 📫 How to reach me **gpsignorini@gmail.com**
 - 🧑‍💻 <a href="https://www.linkedin.com/in/gabriel-signorini/"> Linkedin </a>
 
